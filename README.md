@@ -102,6 +102,8 @@ beta pre-release. Do not use it for production purposes!
 
 Authors in order of joining the core team.
 
+Николай Александрович Плотников (Nikolai Plotnikov)
+
 Игнат Игнатов (Ignat Ignatov)(ignat99@gmail.con)
 
 Макс Жигулин (Max Zhegulin)(max.zhegulin@gmail(dot)com)
