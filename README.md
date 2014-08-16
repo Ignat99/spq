@@ -102,7 +102,7 @@ beta pre-release. Do not use it for production purposes!
 
 Authors in order of joining the core team.
 
-Николай Александрович Плотников (Nikolai Plotnikov)
+[Николай Александрович Плотников](http://vologda-travel.ru/celebs/plotnikov-nikolay-aleksandrovich.htm) (Nikolai Plotnikov)
 
 Игнат Игнатов (Ignat Ignatov)(ignat99@gmail.con)
 
