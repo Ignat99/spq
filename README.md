@@ -61,7 +61,7 @@ need to be kept. This is mandatory for any community project.
 
 # REST API
 
-While working out in beta version on the site [HomeDevices.pro](http://mc.homedevice.pro/)
+While working out in beta version on the site [HomeDevice.pro](http://mc.homedevice.pro/)
 
 # PLUGINS
 
