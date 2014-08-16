@@ -40,13 +40,14 @@ Set the permissions of these files.
 # EXAMPLES
 Exhaustive documentation is still missing and current examples are basic. 
 
-    [Newton's second law](http://localhost/cgi-bin/abcd.pl?tpq=F&pq1=m&pq2=E)
-    [Speed ​​through space and time](http://localhost/cgi-bin/abcd.pl?tpq=v_s&pq1=T&pq2=l1)
-    [Ampère's force law](http://localhost/cgi-bin/abcd.pl?tpq=F&pq1=B&pq2=I&pq3=l1)
+[Newton's second law](http://localhost/cgi-bin/abcd.pl?tpq=F&pq1=m&pq2=E)
+[Speed ​​through space and time](http://localhost/cgi-bin/abcd.pl?tpq=v_s&pq1=T&pq2=l1)
+[Ampère's force law](http://localhost/cgi-bin/abcd.pl?tpq=F&pq1=B&pq2=I&pq3=l1)
   
 # SUPPORT AND DOCUMENTATION
 
 [Group System of physical quantities of Plotnikov N. A. (SPQ)](https://groups.google.com/forum/#!topic/ignat/tqxhS3aDSXM).
+
 [Algorithm automated the simplest tasks of general physics](http://zornica.tk/ignat99.pdf)
 
 # CONTRIBUTING
