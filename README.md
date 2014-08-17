@@ -67,10 +67,12 @@ Most common modules you may want are:
 Plugins for JS programming language
 * (https://github.com/tokuhirom/node-perl)
 * (http://linkedin.github.io/dustjs/)
-* (https://github.com/corion/www-mechanize-phantomjs)
 
 Plugins for Python programming language
 * (http://search.cpan.org/dist/Inline-Python/Python.pod)
+
+May be later to operate asynchronously for Perl
+* (https://github.com/kraih/minion)
 
 # SUPPORT AND DOCUMENTATION
 
