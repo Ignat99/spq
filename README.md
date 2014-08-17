@@ -65,6 +65,8 @@ Dependency-checks for additional features are performed at runtime.
 Most common modules you may want are:
 
 * Plugins for node.js programming language.
+* (https://github.com/tokuhirom/node-perl)
+* (http://linkedin.github.io/dustjs/)
 
 # SUPPORT AND DOCUMENTATION
 
