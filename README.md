@@ -17,6 +17,11 @@ from [24/08/2006](https://groups.google.com/forum/#!topic/ignat/tqxhS3aDSXM).
 Its primary goal is to demonstrate the principle of withdrawal of simple 
 equations of theoretical physics. Script displays the System of physical quantities 
 of Plotnikov N. A. (SPQ) and clearly highlights the operators and the dependency chain.
+
+# NEWS
+
+* To stay tuned follow on Twitter: [SPQ](http://twitter.com/ignat_99)
+* Or [G+](https://plus.google.com/u/0/112645380138653339159/posts)
   
 # VERSION
 
@@ -46,7 +51,21 @@ Exhaustive documentation is still missing and current examples are basic.
 [Speed ​​through space and time](http://localhost/cgi-bin/abcd.pl?tpq=v_s&pq1=T&pq2=l1)
 
 [Ampère's force law](http://localhost/cgi-bin/abcd.pl?tpq=F&pq1=B&pq2=I&pq3=l1)
+
+# DEPENDENCIES
+
+abcd.pl and abcd_wiki.pl depends on the following modules
   
+CGI - Handle Common Gateway Interface requests and responses.
+
+Optional modules may be needed if you want to use some features (but are not required for a basic usage).
+
+Dependency-checks for additional features are performed at runtime.
+
+Most common modules you may want are:
+
+* Plugins for node.js programming language.
+
 # SUPPORT AND DOCUMENTATION
 
 [Group System of physical quantities of Plotnikov N. A. (SPQ)](https://groups.google.com/forum/#!topic/ignat/tqxhS3aDSXM).
