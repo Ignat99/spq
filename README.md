@@ -88,7 +88,7 @@ Plugins for Python programming language
 May be later to operate asynchronously for Perl
 * (https://github.com/kraih/minion)
 
-# SUPPORT AND DOCUMENTATION
+# DOCUMENTATION
 
 [Group System of physical quantities of Plotnikov N. A. (SPQ)](https://groups.google.com/forum/#!topic/ignat/tqxhS3aDSXM).
 
