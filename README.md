@@ -17,6 +17,7 @@ You can financially support the project by either:
 2. A direct donation Ripple: rLaTKSx5Zqcvjrchdeqd2tkSyTVm7jeJmK
 3. Tip4Commit: https://tip4commit.com/projects/946
 
+[![tip for next commit](https://tip4commit.com/projects/946.svg)](https://tip4commit.com/github/Ignat99/spq)
 Code committed to the project is rewarded with bitcoin
 
 
