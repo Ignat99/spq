@@ -30,7 +30,7 @@ Its primary goal is to demonstrate the principle of withdrawal of simple
 equations of theoretical physics. Script displays the System of physical quantities 
 of Plotnikov N. A. (SPQ) and clearly highlights the operators and the dependency chain.
 
-[Video from YAPC::Europe 2014](https://www.youtube.com/channel/UC7PuZDAIVMyE7mgkZHunXGw) 
+[Video from YAPC::Europe 2014](https://www.youtube.com/watch?v=cTP9A-3OJyU) 
 
 # NEWS
 
