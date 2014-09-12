@@ -9,6 +9,17 @@ abcd.pl - Solves the physical formula based on a set of input physical quantitie
 
 abcd_wiki.pl - Hash function to redirect references to physical quantities in wikipedia
 
+# SUPPORT
+
+You can financially support the project by either:
+
+1. A direct donation: 1PUdynE6supgJAAcDmiYupeU6Gv6F6k94A
+2. A direct donation Ripple: rLaTKSx5Zqcvjrchdeqd2tkSyTVm7jeJmK
+3. Tip4Commit: https://tip4commit.com/projects/946
+* Code committed to the project is rewarded with bitcoin
+
+
+
 # DESCRIPTION
 
 abcd.pl - CGI sсript, written in the [Perl programming language](http://www.perl.org/) 
