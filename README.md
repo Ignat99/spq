@@ -16,7 +16,7 @@ You can financially support the project by either:
 1. A direct donation: 1PUdynE6supgJAAcDmiYupeU6Gv6F6k94A
 2. A direct donation Ripple: rLaTKSx5Zqcvjrchdeqd2tkSyTVm7jeJmK
 3. Tip4Commit: https://tip4commit.com/projects/946
-: Code committed to the project is rewarded with bitcoin
+:* Code committed to the project is rewarded with bitcoin
 
 
 
