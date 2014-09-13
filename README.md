@@ -19,7 +19,8 @@ You can financially support the project by either:
 4. Tip4Commit: https://tip4commit.com/projects/946
 
 [![tip for next commit](https://tip4commit.com/projects/946.svg)](https://tip4commit.com/github/Ignat99/spq)
-Code committed to the project is rewarded with bitcoin
+[![tip for next commit](http://prime4commit.com/projects/71.svg)](http://prime4commit.com/projects/71)
+ - Code committed to the project is rewarded with bitcoin (BTC) and primecoin (XPM)
 
 
 
