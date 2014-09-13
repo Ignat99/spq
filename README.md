@@ -15,7 +15,8 @@ You can financially support the project by either:
 
 1. A direct donation BTC: [1PUdynE6supgJAAcDmiYupeU6Gv6F6k94A](https://blockchain.info/address/1PUdynE6supgJAAcDmiYupeU6Gv6F6k94A)
 2. A direct donation Ripple: [rLaTKSx5Zqcvjrchdeqd2tkSyTVm7jeJmK](https://ripple.com/graph/#rLaTKSx5Zqcvjrchdeqd2tkSyTVm7jeJmK)
-3. Tip4Commit: https://tip4commit.com/projects/946
+3. A direct donation Primecoin: [AeV3uUMAZqH34PNYnvtkqjebP25YgZgV3f](https://coinplorer.com/XPM/Addresses/AeV3uUMAZqH34PNYnvtkqjebP25YgZgV3f)
+4. Tip4Commit: https://tip4commit.com/projects/946
 
 [![tip for next commit](https://tip4commit.com/projects/946.svg)](https://tip4commit.com/github/Ignat99/spq)
 Code committed to the project is rewarded with bitcoin
